@@ -34,6 +34,7 @@
     "@react-email/components": "^0.0.41",
     "@react-email/render": "^1.1.2",
     "@rokmohar/medusa-plugin-meilisearch": "^1.1.4",
+    "@simplewebauthn/server": "^13.1.1",
     "@tsc_tech/medusa-plugin-auth-passkey": "^0.0.10",
     "@tsc_tech/medusa-plugin-brand": "^0.0.9",
     "@tsc_tech/medusa-plugin-product-filter": "^0.0.6",
@@ -48,7 +49,6 @@
   "devDependencies": {
     "@medusajs/test-utils": "2.7.1",
     "@mikro-orm/cli": "6.4.3",
-    "@simplewebauthn/server": "^13.1.1",
     "@simplewebauthn/types": "^12.0.0",
     "@swc/core": "1.5.7",
     "@swc/jest": "^0.2.36",
